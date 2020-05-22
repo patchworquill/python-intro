@@ -11,8 +11,12 @@ https://atom.io/packages/hydrogen
 Hydrogen adds jupyter-style notebook functionality to the atom editor!. This is amazing, you can run python lines directly in the editor and see outputs.
 
 <h2>Install pyenv</h2>
+Mac:
 https://opensource.com/article/19/5/python-3-default-mac
 This helps, ensuring so you are working with the correct version of Python, without messing with your computer's system version of Python, which is used for background stuff that you really don't want to break.
+
+Windows:
+https://github.com/pyenv-win/pyenv-win
 
 
 <h2>Optional: install zsh</h2>
